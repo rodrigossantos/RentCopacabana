@@ -11,8 +11,8 @@ if ( !isset($wp_did_header) ) {
 
 	require_once( dirname(__FILE__) . '/wp-load.php' );
 
-	wp();
+	//wp();
 
-	require_once( ABSPATH . WPINC . '/template-loader.php' );
+	//require_once( ABSPATH . WPINC . '/template-loader.php' );
 
 }
